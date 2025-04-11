@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          nothing
+          Nodscyn
         </p>
         <a
           className="App-link"
